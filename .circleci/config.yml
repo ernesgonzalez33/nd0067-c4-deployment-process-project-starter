@@ -59,8 +59,7 @@ jobs:
       - run:
           name: EB set env vars
           command: |
-            eb init udagram-api -r us-east-1
-            eb use udagram-api
+            cd udagram/udagram-api
             eb setenv POSTGRES_USERNAME=$POSTGRES_USERNAME
             eb setenv POSTGRES_PASSWORD=$POSTGRES_PASSWORD
             eb setenv POSTGRES_HOST=$POSTGRES_HOST
