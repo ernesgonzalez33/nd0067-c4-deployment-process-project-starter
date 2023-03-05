@@ -2,7 +2,7 @@
 
 ## Information about my environment
 
-To access the application running, go [here](http://ernesgonzalez33-udagram-ui.s3-website-us-east-1.amazonaws.com/home).
+To access the application running, go [here](http://ernesgonzalez33-udagram-ui.s3-website-us-east-1.amazonaws.com).
 
 All screenshots are in the [screenshots](./screenshots/) folder.
 
