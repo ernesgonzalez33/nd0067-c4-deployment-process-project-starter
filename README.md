@@ -1,5 +1,13 @@
 # Hosting a Full-Stack Application
 
+## Information about my environment
+
+To access the application running, go [here](http://ernesgonzalez33-udagram-ui.s3-website-us-east-1.amazonaws.com/home).
+
+All screenshots are in the [screenshots](./screenshots/) folder.
+
+For more information about the Architecture or Pipeline process, go to the [docs](./docs/) folder.
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
